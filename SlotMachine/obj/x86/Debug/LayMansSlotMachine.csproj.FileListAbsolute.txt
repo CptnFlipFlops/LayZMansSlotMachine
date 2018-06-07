@@ -1,0 +1,10 @@
+C:\Users\Sean\Documents\Development\College\SlotMachine\bin\Debug\WindowsApplication.exe.config
+C:\Users\Sean\Documents\Development\College\SlotMachine\bin\Debug\WindowsApplication.exe
+C:\Users\Sean\Documents\Development\College\SlotMachine\bin\Debug\WindowsApplication.pdb
+C:\Users\Sean\Documents\Development\College\SlotMachine\obj\x86\Debug\LayMansSlotMachine.csprojAssemblyReference.cache
+C:\Users\Sean\Documents\Development\College\SlotMachine\obj\x86\Debug\SlotMachine.Form1.resources
+C:\Users\Sean\Documents\Development\College\SlotMachine\obj\x86\Debug\LayMansSlotMachine.SlotMachine.Properties.Resources.resources
+C:\Users\Sean\Documents\Development\College\SlotMachine\obj\x86\Debug\LayMansSlotMachine.csproj.GenerateResource.cache
+C:\Users\Sean\Documents\Development\College\SlotMachine\obj\x86\Debug\LayMansSlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\Development\College\SlotMachine\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Sean\Documents\Development\College\SlotMachine\obj\x86\Debug\WindowsApplication.pdb

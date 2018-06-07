@@ -1,0 +1,14 @@
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojAssemblyReference.cache
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.cache
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.manifest
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\bin\Debug\SlotMachine.application
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe.manifest
+C:\Users\Sean\Documents\Development\College\SlotMachine\SlotMachine\obj\Debug\SlotMachine.application
